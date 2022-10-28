@@ -1,0 +1,8 @@
+.colorHover:hover{
+border-bottom: 4px solid #37AEC4;
+
+}
+.backgroundColor{
+    --tw-bg-opacity: 1;
+    background-color: rgb(28 28 51/var(--tw-bg-opacity))
+}
